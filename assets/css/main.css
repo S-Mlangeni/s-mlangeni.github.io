@@ -2045,7 +2045,7 @@
 	}
 
 	header.major {
-		padding: 1em 0;
+		padding: 0em 0;
 		text-align: center;
 	}
 
@@ -3163,7 +3163,7 @@
 	#banner {
 		background-attachment: scroll,							fixed;
 		background-color: #666;
-		background-image: url("images/overlay.png"), url("../../images/banner.jpg");
+		background-image: url("images/overlay.png"), url("../../images/coding.jpg");
 		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
@@ -3896,3 +3896,7 @@
 			}
 
 	}
+
+h2 {
+	font-family: "Castellar"
+}
