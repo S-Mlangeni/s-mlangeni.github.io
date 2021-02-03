@@ -3411,6 +3411,11 @@
 					font-size: 3.5em;
 				}
 
+		/* body h2 tag */
+		h2 {
+			font-size: 3em;
+		}
+
 	}
 
 /* Narrow */
@@ -3750,6 +3755,11 @@
 					font-size: 1.25em;
 				}
 
+		/* body h2 tag */
+			h2 {
+				font-size: 1.75em;
+			}
+
 		/* Main */
 
 			#main {
@@ -3900,5 +3910,4 @@
 
 h2 {
 	font-family: /*"Castellar"*/ 'Playfair Display SC', serif;
-	
 }
